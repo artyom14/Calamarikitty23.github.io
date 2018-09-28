@@ -24,11 +24,11 @@
     header, footer, footer a {
         text-align: center;
         background-color: navy;
-        color: black;}
+        color: whitesmoke;}
     header img {
         width: 179px;
         height:auto;
         float: right;}
     footer {
-        font-size: 0.5rem;
+        font-size: 1.0rem;
     }
