@@ -22,7 +22,7 @@
         padding: .5rem;
         max-width:  500px/* xxxpx (px = pixel is a unit of measure)  */;}
     header, footer, footer a {
-        text-align: center;
+        text-align: left;
         background-color: navy;
         color: whitesmoke;}
     header img {
