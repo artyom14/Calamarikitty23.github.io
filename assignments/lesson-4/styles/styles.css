@@ -1,0 +1,40 @@
+{box-sizing: border-box; }
+
+body {
+    font-size: 16px;
+    line-height: 32px;
+    font-family: "Krub", san-serif;
+   }
+   
+         
+h1 {
+   font-size: 2rem /* x.xrem  rem is a unit of measure) */;
+   color: bright yellow;
+   }
+h2 {
+   font-size: 1.5rem;
+   text-align: left;
+   border-bottom: 1px  navy;}
+img.hero{
+    max-width: 300px;
+}
+ main, footer {
+   margin: 1.25rem auto;
+   padding: .5rem;
+   max-width:  500px/* xxxpx (px = pixel is a unit of measure)  */;}
+ footer, footer a {
+   text-align: center;
+   background-color: white;
+   color: navy;}
+header{
+    background-color:skyblue;
+    max-width: 100%;
+    display: inline-block;
+}
+   header img {
+   width: 179px;
+   height:auto;
+   }
+footer {
+   font-size: 1rem;
+}
