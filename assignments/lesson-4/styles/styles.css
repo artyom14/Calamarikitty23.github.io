@@ -28,6 +28,8 @@ img.hero{
 header{
     background-color:#007db9;
     max-width: 150%;
+}
+header img, h1, h2, div {
     display: inline-block;
 }
     p {
